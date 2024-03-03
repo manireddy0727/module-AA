@@ -1,0 +1,3 @@
+[submodule "module-B"]
+	path = module-B
+	url = https://github.com/manireddy0727/module-B.git
